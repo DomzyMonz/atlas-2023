@@ -1,0 +1,32 @@
+{
+	"id": -1,
+	"name": "TinFoilChef TCG Card",
+	"description": "TinFoilChef, also written as Tinfoil Chef or abbreviated as TFC, was a YouTuber and member of Hermitcraft. He joined in Season 2 and was an active member up until his death on August 13, 2022. He has 124,000 subscribers. His most viewed video is Hermitcraft 9 Ep4.\n\nThe card is based of a card from the Hermitcraft Trading Card Game (TCG), a server-wide minigame in HermitCraft Season 9 created by VintageBeef.",
+	"links": {},
+	"path": {
+		"214": [
+			[
+				-1061,
+				-541
+			],
+			[
+				-1061,
+				-499
+			],
+			[
+				-1019,
+				-499
+			],
+			[
+				-1019,
+				-541
+			]
+		]
+	},
+	"center": {
+		"214": [
+			-1040,
+			-520
+		]
+	}
+}
